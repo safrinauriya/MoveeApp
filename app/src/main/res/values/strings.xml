@@ -8,13 +8,13 @@
     <string name="start">GOT IT</string>
 
     <string name="slide_1_title">Welcome</string>
-    <string name="slide_1_desc">Welcome to the MoveeApp, we provide recommendations for your favorite movies</string>
+    <string name="slide_1_desc">Welcome to the MoveeApp,  we provide recommendations for your favorite movies</string>
 
     <string name="slide_2_title">Select a restaurant</string>
     <string name="slide_2_desc">Buy a premium package to enjoy all your application services</string>
 
     <string name="slide_3_title">Choose your food</string>
-    <string name="slide_3_desc">Enjoy you Movee!</string>
+    <string name="slide_3_desc">Enjoy your Movee!</string>
 
 
     <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>

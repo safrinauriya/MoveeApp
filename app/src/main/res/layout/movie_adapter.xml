@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_weight="1"
+    android:background="#272C3E"
+    android:padding="10dp">
+
+    <ImageView
+        android:id="@+id/imgPoster"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@mipmap/ic_launcher" />
+
+    <TextView
+        android:id="@+id/titlePoster"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="10dp"
+        android:layout_toRightOf="@id/imgPoster"
+        android:text="Judul"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/releaseView"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/titlePoster"
+        android:layout_marginLeft="12dp"
+        android:layout_toRightOf="@id/imgPoster"
+        android:text="2000"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+    <TextView
+        android:id="@+id/genre"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/releaseView"
+        android:layout_marginLeft="12dp"
+        android:layout_toRightOf="@id/imgPoster"
+        android:text="Aksi"
+        android:textColor="#FFFFFF"
+        android:textSize="22sp" />
+
+
+</RelativeLayout>

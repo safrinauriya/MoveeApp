@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Movie Project</string>
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="title_activity_welcome">Home Screen</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOT IT</string>
+
+    <string name="slide_1_title">Welcome</string>
+    <string name="slide_1_desc">Welcome to the MoveeApp, we provide recommendations for your favorite movies</string>
+
+    <string name="slide_2_title">Select a restaurant</string>
+    <string name="slide_2_desc">Buy a premium package to enjoy all your application services</string>
+
+    <string name="slide_3_title">Choose your food</string>
+    <string name="slide_3_desc">Enjoy you Movee!</string>
+
+
+    <string name="play_again_desc">To see the welcome slider again, goto Settings -> apps -> welcome slider -> clear data</string>
+    <string name="play_again">Play Again</string>
+
+</resources>

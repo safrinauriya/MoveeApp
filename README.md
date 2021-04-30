@@ -71,5 +71,5 @@ Selain itu, Retrofit tidak memiliki konverter JSON built-in untuk mengurai dari 
 ## Tampilan pada implementasi aplikasi 
 ![WhatsApp Image 2021-04-30 at 23 03 10](https://user-images.githubusercontent.com/60589670/116734073-25cb9200-aa17-11eb-9fc8-45698940470e.jpeg)
 
-![WhatsApp Video 2021-05-01 at 01 01 43](https://user-images.githubusercontent.com/60589670/116736434-16017d00-aa1a-11eb-819e-0b88e3303323.gif)
+![WhatsApp Video 2021-04-30 at 22 55 23 (2)](https://user-images.githubusercontent.com/60589670/116737838-e94e6500-aa1b-11eb-950a-eea10fd0ddc4.gif)
 

@@ -19,8 +19,10 @@ serupa.
 3.	Meringankan beban server
 
 ### Cara kerja API
+
 ![api)](https://user-images.githubusercontent.com/60589670/116734117-34b24480-aa17-11eb-9afa-3325b034c82d.png)
-Aplikasi mengakses API -> API melakukan request ke server -> Server memberi respon ke API -> API menyampaikan respon ke aplikasi
+
+### Aplikasi mengakses API -> API melakukan request ke server -> Server memberi respon ke API -> API menyampaikan respon ke aplikasi
 
 ## REST API
 
